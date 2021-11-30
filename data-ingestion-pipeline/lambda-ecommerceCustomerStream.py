@@ -14,7 +14,6 @@ def lambda_handler(event, context):
 
     method = event['context']['http-method']
 
-    print(event)
     if method == 'GET':
         dynamodb = boto3.resource('dynamodb')
         table = dynamodb.Table('Customers')
