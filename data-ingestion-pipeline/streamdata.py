@@ -8,7 +8,7 @@ def stream_data(data: pd.DataFrame, url: str, sleep_time: int = 0, n_rows: int =
     if n_rows: data = data.head(n_rows)
 
     for i, row in enumerate(data.to_dict(orient="records")):
-        response = requests.post(API_URL, json=row)
+        response = requests.post(url, json=row)
         print(i, response.status_code)
 
         time.sleep(sleep_time)
