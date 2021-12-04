@@ -41,10 +41,6 @@ def stream_data(data: pd.DataFrame, url: str, sleep_time: int = 0,
         with open("config.json", "w") as conf:
             conf.write(json.dumps(config, indent=4))
         time.sleep(sleep_time)
-        
-
-
-
 
 
 API_URL = f"https://{AWS_CONFIG['api_id']}.execute-api.us-east-1.amazonaws.com/prod/ecommerce_db"
