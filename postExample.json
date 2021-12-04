@@ -1,0 +1,170 @@
+{
+  "body-json": [
+    {
+      "InvoiceNo": "536384",
+      "StockCode": "82484",
+      "Description": "WOOD BLACK BOARD ANT WHITE FINISH",
+      "Quantity": 3,
+      "InvoiceDate": "12/1/2010 9:53",
+      "UnitPrice": 6.45,
+      "CustomerID": "18074",
+      "Country": "United Kingdom"
+    },
+    {
+      "InvoiceNo": "536384",
+      "StockCode": "84755",
+      "Description": "COLOUR GLASS T-LIGHT HOLDER HANGING",
+      "Quantity": 48,
+      "InvoiceDate": "12/1/2010 9:53",
+      "UnitPrice": 0.65,
+      "CustomerID": "18074",
+      "Country": "United Kingdom"
+    },
+    {
+      "InvoiceNo": "536384",
+      "StockCode": "22464",
+      "Description": "HANGING METAL HEART LANTERN",
+      "Quantity": 12,
+      "InvoiceDate": "12/1/2010 9:53",
+      "UnitPrice": 1.65,
+      "CustomerID": "18074",
+      "Country": "United Kingdom"
+    },
+    {
+      "InvoiceNo": "536384",
+      "StockCode": "21324",
+      "Description": "HANGING MEDINA LANTERN SMALL",
+      "Quantity": 6,
+      "InvoiceDate": "12/1/2010 9:53",
+      "UnitPrice": 2.95,
+      "CustomerID": "18074",
+      "Country": "United Kingdom"
+    },
+    {
+      "InvoiceNo": "536384",
+      "StockCode": "22457",
+      "Description": "NATURAL SLATE HEART CHALKBOARD ",
+      "Quantity": 12,
+      "InvoiceDate": "12/1/2010 9:53",
+      "UnitPrice": 2.95,
+      "CustomerID": "18074",
+      "Country": "United Kingdom"
+    },
+    {
+      "InvoiceNo": "536384",
+      "StockCode": "22469",
+      "Description": "HEART OF WICKER SMALL",
+      "Quantity": 40,
+      "InvoiceDate": "12/1/2010 9:53",
+      "UnitPrice": 1.45,
+      "CustomerID": "18074",
+      "Country": "United Kingdom"
+    },
+    {
+      "InvoiceNo": "536384",
+      "StockCode": "22470",
+      "Description": "HEART OF WICKER LARGE",
+      "Quantity": 40,
+      "InvoiceDate": "12/1/2010 9:53",
+      "UnitPrice": 2.55,
+      "CustomerID": "18074",
+      "Country": "United Kingdom"
+    },
+    {
+      "InvoiceNo": "536384",
+      "StockCode": "22224",
+      "Description": "WHITE LOVEBIRD LANTERN",
+      "Quantity": 6,
+      "InvoiceDate": "12/1/2010 9:53",
+      "UnitPrice": 2.95,
+      "CustomerID": "18074",
+      "Country": "United Kingdom"
+    },
+    {
+      "InvoiceNo": "536384",
+      "StockCode": "21340",
+      "Description": "CLASSIC METAL BIRDCAGE PLANT HOLDER",
+      "Quantity": 2,
+      "InvoiceDate": "12/1/2010 9:53",
+      "UnitPrice": 12.75,
+      "CustomerID": "18074",
+      "Country": "United Kingdom"
+    },
+    {
+      "InvoiceNo": "536384",
+      "StockCode": "22189",
+      "Description": "CREAM HEART CARD HOLDER",
+      "Quantity": 4,
+      "InvoiceDate": "12/1/2010 9:53",
+      "UnitPrice": 3.95,
+      "CustomerID": "18074",
+      "Country": "United Kingdom"
+    },
+    {
+      "InvoiceNo": "536384",
+      "StockCode": "22427",
+      "Description": "ENAMEL FLOWER JUG CREAM",
+      "Quantity": 3,
+      "InvoiceDate": "12/1/2010 9:53",
+      "UnitPrice": 5.95,
+      "CustomerID": "18074",
+      "Country": "United Kingdom"
+    },
+    {
+      "InvoiceNo": "536384",
+      "StockCode": "22428",
+      "Description": "ENAMEL FIRE BUCKET CREAM",
+      "Quantity": 6,
+      "InvoiceDate": "12/1/2010 9:53",
+      "UnitPrice": 6.95,
+      "CustomerID": "18074",
+      "Country": "United Kingdom"
+    },
+    {
+      "InvoiceNo": "536384",
+      "StockCode": "22424",
+      "Description": "ENAMEL BREAD BIN CREAM",
+      "Quantity": 8,
+      "InvoiceDate": "12/1/2010 9:53",
+      "UnitPrice": 10.95,
+      "CustomerID": "18074",
+      "Country": "United Kingdom"
+    }
+  ],
+  "params": {
+    "path": {},
+    "querystring": {},
+    "header": {
+      "Accept": "*/*",
+      "Accept-Encoding": "gzip, deflate, br",
+      "Content-Type": "application/json",
+      "Host": "8c6q9mez5d.execute-api.us-east-1.amazonaws.com",
+      "User-Agent": "python-requests/2.26.0",
+      "X-Amzn-Trace-Id": "Root=1-61a75d73-25832ec365bbe96702731460",
+      "X-Forwarded-For": "180.183.119.65",
+      "X-Forwarded-Port": "443",
+      "X-Forwarded-Proto": "https"
+    }
+  },
+  "stage-variables": {},
+  "context": {
+    "account-id": "",
+    "api-id": "8c6q9mez5d",
+    "api-key": "",
+    "authorizer-principal-id": "",
+    "caller": "",
+    "cognito-authentication-provider": "",
+    "cognito-authentication-type": "",
+    "cognito-identity-id": "",
+    "cognito-identity-pool-id": "",
+    "http-method": "POST",
+    "stage": "prod",
+    "source-ip": "180.183.119.65",
+    "user": "",
+    "user-agent": "python-requests/2.26.0",
+    "user-arn": "",
+    "request-id": "9fa9ef00-0a94-4151-add3-a740726a44f5",
+    "resource-id": "vgvmeq",
+    "resource-path": "/ecommerce_db/customers"
+  }
+}
