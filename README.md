@@ -12,6 +12,8 @@ The objective of this project was to simulate the data streaming process in the 
   - DynamoDB
   - Redshift
 - Python
+  - requests
+  - boto3
 
 ## Pipeline
 ![pipeline](assets/pipeline.drawio.png)
