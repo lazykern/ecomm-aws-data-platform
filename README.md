@@ -16,7 +16,7 @@ The objective of this project was to simulate the data streaming process in the 
   - boto3
 
 ## Pipeline
-![pipeline](assets/pipeline.drawio.png)
+![pipeline](assets/pipeline.png)
 
 ### Data Ingestion Pipeline
 I used python to simulate data streaming from an [ecommerce data](https://www.kaggle.com/carrie1/ecommerce-data). I implemented  the POST method for API Gateway in order to ingest the data to Kinesis.
